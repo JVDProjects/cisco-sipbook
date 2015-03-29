@@ -19,3 +19,13 @@ CREATE TABLE IF NOT EXISTS `records` (
 ####To-do
 * Bug fixing (example: notifications)
 * Code cleanup
+* Styling
+
+###Screendumps
+![Alt text](https://www.jvd-projects.nl/wp-content/uploads/2015/03/overview.jpg "Overview")
+
+![Alt text](https://www.jvd-projects.nl/wp-content/uploads/2015/03/inline-edit.jpg "Inline edit")
+
+![Alt text](https://www.jvd-projects.nl/wp-content/uploads/2015/03/add-user.jpg "Add user")
+
+![Alt text](https://www.jvd-projects.nl/wp-content/uploads/2015/03/XML-output.jpg "XML output")
